@@ -75,5 +75,22 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+gate level model
 
+Logic diagram 
+
+<img width="701" height="573" alt="exp1 logic" src="https://github.com/user-attachments/assets/76cca557-e7da-4cf7-9a22-3fd74d911c30" />
+
+ State diagram
+<img width="1906" height="464" alt="exp1bwf" src="https://github.com/user-attachments/assets/5a1bf752-68a8-49c0-b606-f9a9944cbd21" />
+
+Data flow model
+
+Logic diagram
+
+<img width="473" height="440" alt="exp1b logic" src="https://github.com/user-attachments/assets/5aa51afc-db49-4dfa-b080-8deb59c9cc26" />
+
+State diagram
+
+<img width="1906" height="464" alt="exp1bwf" src="https://github.com/user-attachments/assets/069aeb31-3b35-4744-889c-94bf950929fc" />
 
